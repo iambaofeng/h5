@@ -1,4 +1,4 @@
-# yinshui_zhongning_app
+# 基于vue的h5模板，包括常用的ivant库及路由动画及http封装及rem屏幕自适应
 
 ## Project setup
 ```
